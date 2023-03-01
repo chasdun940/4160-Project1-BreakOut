@@ -3,4 +3,4 @@ The goal of this assignment is to build a basic game in Python using the Pygame 
 
 **GAME IMAGE**
 
-!(Capture.PNG)
+![Screenshot](Capture.PNG)
